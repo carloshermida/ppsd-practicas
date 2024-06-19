@@ -1,4 +1,4 @@
-### Prácticas PPSD - [[Changelog]](https://github.com/carloshermida/ppsd-practicas/blob/main/changelog.md#changelog)
+### Prácticas PPSD
 ##### Curso 2021/2022
 
 Este repositorio contiene las prácticas de la asignatura _Protección, Privacidad y Seguridad de Datos_ del grado en _Ciencia e Ingeniería de Datos_ de la _Universidad de Coruña_.
